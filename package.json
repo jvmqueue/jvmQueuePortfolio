@@ -1,0 +1,44 @@
+
+{
+  "name": "JvmQueue Portfolio Redesign",
+  "matchdep": "~0.1.2",
+  "version": "1.0.0",
+  "description": "angular with data-driven handlebar templates",
+  "main": "scripts/config.js",
+  "scripts": {
+    "test": "main.gruntTest()"
+  },
+  "repository": {
+    "type": "git",
+  "url": "https://github.com/jvmqueue/jvmQueuePortfolio"
+  },
+  "keywords": [
+    "angular",
+    "convert",    
+    "handlebar"
+    "json",
+    "xml"
+  ],
+  "author": "glenn",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-csslint": "^0.3.1",
+    "grunt-contrib-cssmin": "^0.11.0",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-uglify": "^0.7.0",
+    "grunt-contrib-clean": "^0.6.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvmqueue/jvmQueuePortfolio/issues"
+  },
+  "homepage": "http://www.JvmQueue.com/",
+  "jshint": {
+    "options": {
+      "jshintrc": ".jshintrc"
+    },
+    "all": [
+      "scripts/*.js"
+    ]
+  }
+}
