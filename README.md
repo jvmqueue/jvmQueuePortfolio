@@ -23,6 +23,7 @@
     <li>Angular for Single Page Appliction, page does not postback</li>    
     <li>Bootstrap used for Responsive Design</li>    
     <li>CSS3 for presentation, animation, fonts, graphics</li> 
+    <li>Custom utilities to convert XML to JSON</li>    
     <li>Grunt used to ensure JS and CSS conform to standards, LINT</li>
     <li>Handlebars used for logicaless templates</li>    
     <li>HTML5 for semantic markup</li>
@@ -33,7 +34,6 @@
     <li>Primitive JavaScript Design Patterns to conform to reusability and optimization</li>
     <li>Regular Expressions for String clean-up, replacements, etc.</li>          
     <li>Require JS for Lazy Loading, script organization</li>    
-    <li>Custom utilities to convert XML to JSON</li>    
     <li>XML for data storage, seperating presentation from data</li>
 </ul>
 <h3>Development Work-flow</h3>
