@@ -1,6 +1,5 @@
-
 {
-  "name": "JvmQueue Portfolio Redesign",
+  "name": "JvmQueuePortfolioRedesign",
   "matchdep": "~0.1.2",
   "version": "1.0.0",
   "description": "angular with data-driven handlebar templates",
@@ -10,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-  "url": "https://github.com/jvmqueue/jvmQueuePortfolio"
+    "url": "https://github.com/jvmqueue/jvmQueuePortfolio"
   },
   "keywords": [
     "angular",
-    "convert",    
-    "handlebar"
+    "convert",
+    "handlebar",
     "json",
     "xml"
   ],
@@ -40,5 +39,8 @@
     "all": [
       "scripts/*.js"
     ]
+  },
+  "dependencies": {
+    "jquery": "^2.2.1"
   }
 }
